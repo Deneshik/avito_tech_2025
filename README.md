@@ -17,6 +17,7 @@
 - **Установка зависимостей:**
 
 - **Клонируйте репозиторий:**
+
   ```sh
 git clone https://github.com/Deneshik/avito_tech_2025
   ```
@@ -28,6 +29,7 @@ python -m venv venv
 source venv/bin/activate  # Для macOS/Linux
 venv\Scripts\activate     # Для Windows
   ```
+
 Установите зависимости:
   ```sh
 pip install -r requirements.txt
