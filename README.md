@@ -6,22 +6,23 @@
 
 Требования:
 
-Python 3.12+
+- Python 3.12+
 
-Google Chrome
+- Google Chrome
 
-ChromeDriver (должен соответствовать версии Chrome)
+- ChromeDriver (должен соответствовать версии Chrome)
 
-pip для управления пакетами
+- pip для управления пакетами
 
-Установка зависимостей:
+- **Установка зависимостей:**
 
-Клонируйте репозиторий:
+- **Клонируйте репозиторий:**
   ```sh
 git clone https://github.com/Deneshik/avito_tech_2025
   ```
 
-Создайте и активируйте виртуальное окружение:
+- **Создайте и активируйте виртуальное окружение:**
+
   ```sh
 python -m venv venv
 source venv/bin/activate  # Для macOS/Linux
